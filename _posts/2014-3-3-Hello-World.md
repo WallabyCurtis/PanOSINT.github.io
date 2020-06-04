@@ -1,10 +1,9 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
+Initially, we need places to organize the effort that goes into this set-up. A few different repositories will be made in order to best coordinate our efforts. As need becomes apparent, a Slack may be developed, and perhaps a Trello.
+    We will need a database, and a way to scrape and sort the data from its various forms into this database. Most of the initial focus will be on these areas.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
