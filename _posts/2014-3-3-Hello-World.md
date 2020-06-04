@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Initializing the PanOSINT Project
 published: true
 ---
 Initially, we need places to organize the effort that goes into this set-up. A few different repositories will be made in order to best coordinate our efforts. As need becomes apparent, a Slack may be developed, and perhaps a Trello.
