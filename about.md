@@ -5,12 +5,9 @@ permalink: /about/
 published: true
 ---
 
-Some information about me!
+Let's see what happens if we collect the metadata of intel -- the remnants left in OSINT.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More information to come as the project matures.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
