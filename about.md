@@ -7,7 +7,5 @@ published: true
 
 Let's see what happens if we collect the metadata of intel -- the remnants left in OSINT.
 
-### More Information
-
-More information to come as the project matures.
+##More information to come as the project matures.
 
